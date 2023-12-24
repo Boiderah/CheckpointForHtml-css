@@ -1,0 +1,66 @@
+body {
+    font-family: Roboto;
+    font-size: px;
+    background-color: rgba(95, 98, 100, 0.267);
+}
+.a{
+    color: rgba(109, 100, 100, 0.918);
+    text-align: center;
+    letter-spacing: 0.5px;
+    
+}
+.wee{
+    font-family: 'Courier New', Courier, monospace;
+    border: 10px hidden black;
+    color: brown;
+    padding: 10px 20px;
+    margin: 10px;
+    font-size: 30px;
+}
+P{
+    font-size: 15px;
+    font-weight: 200;
+    color: black;
+}
+ul{
+    color: black;
+
+}
+.wee:hover{
+    color: rgb(41, 127, 207);
+    border:5px hidden red;
+    border-style: hidden;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+#wee{
+    text-align: center;
+    font-size: larger;
+    color: brown;
+}
+#can{
+    background-color: rgba(134, 181, 212, 0.788);
+    border: 5px dotted red;
+    border-style: inset;
+    background-origin: padding-box;
+    display:block
+}
+.can{
+    font-size: larger;
+    text-decoration-color: blue;
+    font-style: italic;
+    color: brown;
+    
+}
+.media{
+    font-style: italic;
+    font-size: larger;
+    color: brown;
+   text-align: center;
+}
+.rounded{
+    border-radius: 15px;
+}
+#circle{
+    border-radius: 50px/25px;
+}
